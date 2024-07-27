@@ -7,7 +7,7 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "ARIYAN",
+  "BOTNAME": "ARIYAN BOT",
   "PREFIX": "?",
   "OPERATOR": [
     "100014896964436",
@@ -19,9 +19,9 @@
   "ADMINBOT": [
     "100014754734049",
     "100090361566764",
-    "61562409612166",
+    "61551377657746",
     "61561175294315",
-    ""
+    "61562409612166",
     
 
     
@@ -33,4 +33,4 @@
   "note": "make sure that the bot name you entered is all lowercase",
   "notice": "dont cng author name and owner uid. otherwise bot not working",
   "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
-}
+} 
